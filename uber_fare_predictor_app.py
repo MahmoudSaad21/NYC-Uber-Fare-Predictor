@@ -9,8 +9,8 @@ import joblib
 # Load the trained model and encoder
 @st.cache_resource
 def load_model():
-    model = joblib.load('/content/uber_fare_predictor_catboost.pkl')
-    encoder = joblib.load('/content/label_encoder.pkl')
+    model = joblib.load('uber_fare_predictor_catboost.pkl')
+    encoder = joblib.load('label_encoder.pkl')
     return model, encoder
 
 model, encoder = load_model()
