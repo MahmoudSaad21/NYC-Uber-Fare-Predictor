@@ -38,7 +38,7 @@ Raw Data → Feature Engineering → Model Training → Hyperparameter Tuning �
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/nyc-uber-fare-predictor.git
+git clone https://github.com/MahmoudSaad21/NYC-Uber-Fare-Predictor.git
 cd nyc-uber-fare-predictor
 pip install -r requirements.txt
 ```
@@ -75,13 +75,13 @@ print(f"Predicted fare: ${predicted_fare:.2f}")
 
 ```
 nyc-uber-fare-predictor/
-├── 📊 Copy_of_final_2 (1).ipynb      # Complete analysis notebook
-├── 🤖 uber_fare_predictor_catboost.pkl    # Trained CatBoost model
-├── 🔧 label_encoder.pkl              # Categorical feature encoder
-├── 🌐 uber_fare_predictor_app.py     # Streamlit web application
-├── ⚙️ feature_transformer.py         # Feature engineering pipeline
-├── 📋 requirements.txt               # Python dependencies
-└── 📖 README.md                      # Project documentation
+├── 📊 NYC_Uber_Fare_Analysis&Training.ipynb   # Complete analysis notebook
+├── 🤖 uber_fare_predictor_catboost.pkl        # Trained CatBoost model
+├── 🔧 label_encoder.pkl                       # Categorical feature encoder
+├── 🌐 uber_fare_predictor_app.py              # Streamlit web application
+├── ⚙️ feature_transformer.py                  # Feature engineering pipeline
+├── 📋 requirements.txt                        # Python dependencies
+└── 📖 README.md                               # Project documentation
 ```
 
 ## 🔬 Feature Engineering Excellence
@@ -252,9 +252,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - your.email@example.com
+**Mahmoud Saad** - mahmoud.saad.mahmoud.11@gmail.com
 
-**Project Link**: [https://github.com/yourusername/nyc-uber-fare-predictor](https://github.com/yourusername/nyc-uber-fare-predictor)
+**Project Link**: [https://github.com/MahmoudSaad21/NYC-Uber-Fare-Predictor.git](https://github.com/MahmoudSaad21/NYC-Uber-Fare-Predictor.git)
 
 ---
 
