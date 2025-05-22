@@ -140,7 +140,7 @@ nyc-uber-fare-predictor/
 
 Experience the model in action with our interactive Streamlit application:
 
-**[🔗 Try the Live Demo](https://your-streamlit-app-url.com)**
+**[🔗 Try the Live Demo](https://nyc-uber-fare-predictor-app.streamlit.app/)**
 
 ### Demo Features
 - 📍 Interactive map visualization
