@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![CatBoost](https://img.shields.io/badge/CatBoost-ML%20Model-orange)](https://catboost.ai/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)](https://nyc-uber-fare-predictor-app.streamlit.app/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Accuracy](https://img.shields.io/badge/Accuracy-90%25%2B-brightgreen)](README.md)
 
